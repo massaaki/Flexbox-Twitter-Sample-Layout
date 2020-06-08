@@ -8,6 +8,10 @@ Just a flexbox review
 - css
 ```
 
+# Project sample
+![Project Sample](https://github.com/massaaki/flexbox/blob/master/repo-images/project-print-01.png)
+
+
 # Getting start
 ```
 1. clone the repository
@@ -18,11 +22,15 @@ git clone https://github.com/massaaki/flexbox.git <projectName>
 3. Enjoy :)
 ```
 
-# Project sample
-![Project Sample](https://github.com/massaaki/flexbox/blob/master/repo-images/project-print-01.png)
-
 
 # Author
-```
-Mauricio Massaaki
-```
+**Maurício Massaaki**
+
+**E-mail:** eu@massaaki.com
+
+**Github:**  [@massaaki](https://github.com/massaaki)
+
+**Website:**  [massaaki.com](https://massaaki.com)
+
+# License
+This project is under the [MIT license](https://opensource.org/licenses/MIT).
