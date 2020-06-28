@@ -1,5 +1,7 @@
+[Sample here](https://twitter-sample-layout.netlify.app)
+
 # Twitter Sample Layout
-Just a flexbox review
+Twitter Layout using HTML && CSS with Flexbox
 
 
 # Techs 
